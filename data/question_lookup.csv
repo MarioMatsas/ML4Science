@@ -1,0 +1,229 @@
+question_id,date,split,question
+09U2cQZqCR,2025-12-07-llm,train,"Will Elon Musk be the world's richest person on December 31, 2025?"
+0IUCA5s8EN,2026-02-15-llm,validation,Will the US strike Iran by the end of February?
+0x027eeeaba097b5f3b166eace64668b2e6b327acc7c6b314ae5f03b33b51425e7,2025-10-26-llm,train,Will Mikie Sherrill win the New Jersey Governor Election in 2025
+0x03ea417a6e1705498427bbe8fd89b922664db3020f196595d5c2a88826c7434c,2026-02-15-llm,validation,Will Leverkusen win the 2025–26 Champions League?
+0x04b1198c2a888f4d162cc5eea844b2f67a80e684d37d8e75bbcde2fc2d06755b,2026-03-01-llm,validation,Will Bodo Glimt win the 2025–26 Champions League?
+0x06331f454adc15cc3c7b0c2eda3c688630b1d5f3ab4c2238a666e4a8babef9f3,2026-02-01-llm,train,Will Gonzaga win the 2026 NCAA Tournament?
+0x099952efaf314cb44fcc6179e1fd8ca309e473f7dd924e980a381b70648f2887,2025-11-23-llm,train,Will Bruno Mars be the top Spotify artist for 2025?
+0x09ab024402ce8e8a2c36e1456640a2920a74b758fcdb4a7eb8c4c4a12e8c1476,2026-03-29-llm,test,"Will Ethereum dip to $1,600 in March?"
+0x0a2f5de6fcdacae0f56cb60cd05765e0e9998b605f6cc9c8885ee2a87ad85175,2026-03-01-llm,validation,Will Paul Thomas Anderson win Best Director at the 98th Academy Awards?
+0x0a999ae98b3c9e593cbbd33e2f940df1b071ac0ab9ede42ed12eeb8f7eef461e,2026-03-01-llm,validation,Will CD win the most seats in the 2026 Colombian Chamber of Representatives election?
+0x0cd467df4030e7da99133ae20665f0905e6a9cbc6706d11c87712730a0434170,2025-12-21-llm,train,Will Bitcoin hit $150k by December 31?
+0x0d44a3b546096156afdf40be8f37bce617970ee3d0901d35f4ade50d46ae18a8,2026-01-04-llm,train,Will the Detroit Pistons make the NBA Playoffs?
+0x12b6268efb832fe64bb746b9f50a51245b761d6b170e172b3cd81a7c4f39432b_aug,2025-11-09-llm,train,Will it not be the case that 8+ Fed rate cuts happen in 2025?
+0x149e2cdbf5b3df3142452412c4c9f4e8f39379020ba1bc25c1811a3f43c8ad27,2026-03-29-llm,test,Will Saudi Arabia strike Iran by March 31?
+0x15a18c82b90f8f6de9bdac99dd763865910338fcab9366b119fcf8d372d4768b,2025-12-21-llm,train,Will the Cleveland Cavaliers make the NBA Playoffs?
+0x17815081230e3b9c78b098162c33b1ffa68c4ec29c123d3d14989599e0c2e113,2025-11-09-llm,train,Fed decreases interest rates by 50+ bps after January 2026 meeting?
+0x1a5edf9d6f7813a5289f8e410c5a033abbd52576fc1a2d44aa34f2a4c86303c1,2025-10-26-llm,train,Will Russia invade Finland in 2025?
+0x1d18ea76e6b90075064466ed428970fc6932c7fc3bf32e74855e622a982a694c,2026-03-29-llm,test,Will Ausar Thompson lead the NBA in steals during the 2025–26 NBA season?
+0x212cc6584803e23a777960c163f882466db4cb88cec4983b3b95a8b3e75815d2,2026-03-01-llm,validation,Will the United States of America win the gold medal for Winter Olympics 2026: Women's Ice Hockey at the 2026 Milano Cortina Winter Olympics?
+0x216cfc5952a75a6c2005fa90a1f49524401abdde826aaa916af4c88a70426363,2025-12-21-llm,train,Trump agrees to send U.S. peacekeeping force to Ukraine?
+0x21bdabe2791e7a70a02829be6a3dd7452fd4f6cba3b1fa1abed109941d8864d2,2025-11-23-llm,train,Will Ukraine agree to give up the rest of Donbas in 2025?
+0x21d5b50fd0bc5013be79a7cdb4b3f0917127071cf27a324804c030f6eb06f5b4,2025-11-09-llm,train,Will Trump refrain from announcing a next Fed Chair in 2025?
+0x240f4f76613f69c1b5072abf9904a445c009cc526c2d301f7181eb33eb3785e8,2025-11-09-llm,train,Will 'The Life of a Showgirl' be #1 for 18 straight weeks?
+0x257b18205f908aef01ef2d1d50e6fea7d29cf5486fe04031d8b101394476faed,2026-03-15-llm,test,Will there be no change in Fed interest rates after the March 2026 meeting?
+0x2a34915c245f4b94976dda8afddb56452caf0ba2307500f78d7f08813d467917,2025-10-26-llm,train,Will Billie Eilish be the top Spotify artist for 2025?
+0x2a6b222354f86941b5fb5571a9256b8db85d6ab468ba7f865e43cefbfb83b812,2026-01-18-llm,train,Will xAI have the best AI model at the end of January 2026?
+0x2cde05f9ccf7986b8ff404d74dfdc7d026792f6ae18a8438c8af714b19269802,2026-02-01-llm,train,Based FDV above $300M one day after launch?
+0x2df3bce3a7e1b85fd6e26dcc87cb54a61052388e0bf676cbfcd94258d4b93343,2026-03-15-llm,test,Will the Colorado Avalanche make the NHL Playoffs?
+0x313787d313815069851d81a35de415dcfd9e223ced2a0ab19fcf9ad367ff0a76,2025-12-07-llm,train,Will Luka Doncic lead the NBA in three pointers made during the 2025–26 NBA season?
+0x337e5c84b83679d5557acafcf78b5c5d4d932b9fcd7dfba7966249d64f0f0a0f,2026-03-15-llm,test,"Will Bitcoin reach $80,000 in March?"
+0x34a8aa834927033bb6ac7bd96c508972611b826ca6d61e59c6d7d0cf3571d463,2025-10-26-llm,train,Will Monad perform an airdrop by November 30? 
+0x35915279267a71c7a89e07747e645107bd7720209a7ac145ab36af6c6ac35c67_aug,2025-10-26-llm,train,Will it not be the case that new Coronavirus Pandemic in 2025?
+0x366c465e379145d0ec1ae70dfcaea8f69cb42e769895edfb420888891e3df9f5,2025-12-21-llm,train,Will Bitcoin Dominance hit 70% before 2026?
+0x385458d81b805f220ccc137a23e5e24d1c6ecb61a189ba2edf8812b099129af9_aug,2025-10-26-llm,train,Will it not be the case that global temperature increase by less than 1.10ºC in October 2025?
+0x3b7e03065f6437f93e3aa6fc2cb4ac0af068d7c8b0ffb32e26296b078feaa507,2025-12-21-llm,train,US strikes Nigeria by December 31?
+0x3c1aea7dfcae8dc154841d900f59c58c0c6ffcea1fd2942a680595ffd35a46ca,2026-01-18-llm,train,Will Bugonia win Best Costume Design at the 98th Academy Awards?
+0x3d64b85493b8e6602ea4dc4ebfa1e8b998594c8439e4e0d730ce6e44f7e587e3,2025-11-23-llm,train,Will Maria Konnikova win the 2025 National Heads-Up Poker Championship?
+0x3ddfb68ae4ca088d2ae91ed40d88a3a68266b9855bea5e33f8a8e1d53ab5ff2b_aug,2026-01-04-llm,train,Will it not be the case that Man's Best Friend (Sabrina Carpenter) win Album of the Year at the 68th Annual GRAMMY Awards?
+0x419c7ae262b7b17f41a077eeaec4b2d3881406ea3a4cf0d5984536fe0bd3c995_aug,2025-10-26-llm,train,Will it not be the case that the Fed cut-pause-cut in 2025
+0x41da88e6d6db2ebf5fbb868d93e97c3052121a59d1222c00774119427ec9efe1,2025-12-21-llm,train,Will xAI have the best AI model for math at the end of 2025?
+0x4928bece364d2def95c920459ab1fa54f449f99f33b0dbc93d6a84f80d9c9669,2025-11-09-llm,train,Will Moonshot have the top AI model on December 31?
+0x4b23c2e3ee806915cc1186641d292acbc6b26d7a7746ee93c910b8b0c87d4bca,2026-03-01-llm,validation,Will the Fed Cut–Pause–Pause in the next three decisions (Dec–Jan–Mar)?
+0x4ccff8c606ad71080c7611d28f1593a528a8ca6c11c1fb63bfa24a7eb2ad30d7,2026-03-29-llm,test,US x Iran ceasefire by December 31?
+0x4e4e89fd4a8b605664a3745981cd9034905ef59f385c893b8f29add42f3b4e00_aug,2025-10-26-llm,train,Will it not be the case that global temperature increase by between 1.10ºC and 1.14ºC in October 2025?
+0x4ef4a5e6c74f646ce7126c7283b1a679c76db679b3237c2c6eaac27249b13dfd,2025-11-23-llm,train,Will Apple dip to $188 in November?
+0x5203a95598f18205fa5d1fae7afdefedfbb356679f1ae6e3911c54883a462034,2025-11-09-llm,train,Will Crystal Palace win the 2025–26 English Premier League?
+0x53511c6b839a6f653f7b5b3e1e6b8e0f90b8b62a3a55731b47158f5057f8f23d,2025-11-23-llm,train,Will Moonshot have the best AI model at the end of November 2025?
+0x53f82bd52566e30ae3f8131cb92095dd92ecdf2b0204af0edc226ee194e923fe,2025-10-26-llm,train,Fed decreases interest rates by 25 bps after October 2025 meeting?
+0x54e136864bfd047505b0911da4246b0317d2a7305708bde3026b54699abead92,2025-12-07-llm,train,Will Patrick Mahomes win the 2025–26 NFL MVP award?
+0x58234757c9519ddfffdbc8f33bea3b172d5a55a7fedb07c6df4fed1e97ba1ca7,2026-03-29-llm,test,Will the Detroit Pistons win the 2025–2026 NBA Central Division?
+0x5bacc34a8e6a55ba0ec728af334b7685e8fda1e9304ec95f0249bb15ea3c941d,2026-03-15-llm,test,Will the San Antonio Spurs win the 2025–2026 NBA Southwest Division?
+0x5cd80b8fd72f37c78260a4f8fa0d5bbaaad3adffcfc2c0705e05ee20b8672908,2026-03-15-llm,test,Will Anthropic have the best AI model at the end of March 2026?
+0x607c517eec2acc6e4d888a725d2d73a99b2d1088f150f1b05470dd9d6ef19379,2025-11-09-llm,train,Will Racing Bulls finish fifth in the 2025 F1 Constructors' Championship?
+0x60acc46cda1f0619259acf3ef8c77bf734ff08cbed256ca3d1e9444138e21266,2025-12-21-llm,train,Will Trump nominate Jerome Powell as the next Fed chair?
+0x60c447987af838c9a074ad7d44751135be94a20580982b72d76e9b542572bfe6,2025-12-21-llm,train,Will Cynthia Erivo win Best Actress at the 98th Academy Awards?
+0x617c7a90eda304d6875abfefa3638ecedb2fffe3321aa207a9e23e8fc686fb75,2025-10-26-llm,train,Will the Fed cut-pause-pause in 2025?
+0x618280c029aeb0044177f58ccc15fa38be1a8db304189b935a26d5205256ee3b,2026-03-01-llm,validation,Will France win the 2026 Six Nations championship?
+0x641f7bc48e2a81d1483fc40d05e9be1abc44d60a83b283142ab6a7d101e73232,2026-02-01-llm,train,Will the San Antonio Spurs have the worst record in the NBA?
+0x662270576ae01d80a6eec9f8579c93987338f646010117e9c98fffe7c38b220c,2026-03-01-llm,validation,Will Amy Madigan win Best Supporting Actress at the 98th Academy Awards?
+0x68469fb64aca83a6ae036946381e20a8c8d25b6e690da1b2bb23e250abc2a261_aug,2025-10-26-llm,train,Will it not be the case that israel x Iran ceasefire broken by October 31?
+0x6995678ed5f481941cc4de37512cfe77b1b20e6fd9ba35e284360061d2687d8f_aug,2026-02-15-llm,validation,Will it not be the case that Google have the best AI model at the end of February 2026?
+0x69b009591dd768c3878e2ff9b28b8661e039409ea2f156ad70aa5224c08702e0_aug,2025-12-21-llm,train,Will it not be the case that Russia capture Lyman by December 31?
+0x6b2e51f006ae5613849c3913db2a766390a05c2d67bc8b0b0872d3d63cb517ee,2025-12-21-llm,train,Will the Oklahoma City Thunder make the NBA Playoffs?
+0x6d1ed397657b875e9908b33609df303fe66938fe2a7af7f36c39fb45b3b0a1c7_aug,2025-11-23-llm,train,Will it not be the case that Z.ai have the best AI model at the end of November 2025?
+0x6fa38b11b1909151a7c1c3bdfb77b24716adbd7ecbe9904ed14a572886120e76,2025-11-09-llm,train,Will Zootopia 2 be the top grossing movie of 2025?
+0x70909f0ba8256a89c301da58812ae47203df54957a07c7f8b10235e877ad63c2,2026-03-01-llm,validation,Khamenei out as Supreme Leader of Iran by March 31?
+0x712015ce8ac2c87d89bfacff5610f225c147a147441a78654846d1462921ede7_aug,2025-11-09-llm,train,Will it not be the case that 10-12 SpaceX Starship launches successfully reach Space in 2025?
+0x72b25fe7b05903658eea56ffd995dc4f0f252d49d6a9a202bac103dd29ab2ba5,2026-01-04-llm,train,Will Sarah Knafo win the Paris mayor election?
+0x7455e92b9e9c842ca260e65f0d640108223fd9f3430f997472825763654d96c7,2025-10-26-llm,train,Will The Weeknd be the top Spotify artist for 2025?
+0x752a5087b40fea78569dfedb2257bf7499eefb50970fded264c94af8b40c1027,2025-12-07-llm,train,Will Michael Penix win the 2025–26 NFL MVP award?
+0x773abaa5fe55e5cde51a261f444b7921652a4e059ead6b3be9fe56499c2d4609,2026-03-29-llm,test,US x Iran ceasefire by April 15?
+0x77b4a1d4cd398a86c18b6bb9b5218917dc9f04b01a3cd4bae1c71ea345f15fa8,2025-10-26-llm,train,Will Polymarket US go live in 2025?
+0x77eaf36a80197a13ff32e31f05b54e824a6fd21d93f1001abcc18ba8d9a7ed16,2025-10-26-llm,train,Will 'A Minecraft Movie' have the best domestic opening weekend in 2025?
+0x78f97eed822885c3813ab7ba0ba41a5c1bb0ca0f0f622698bfc0460931aff51a,2026-03-29-llm,test,Will 20 ships transit the Strait of Hormuz on any day in March?
+0x797d586ad45522306490b0cc9b2f21bdf957f3843476fae99f3bcc2cec83b74b,2026-02-15-llm,validation,"US strikes Iran by June 30, 2026?"
+0x7a250aca74f2938d9fee6b975cc5a588de54c25a673e272e0884023bc1be7a61,2025-12-21-llm,train,Will Moonshot have the best AI model for math at the end of 2025?
+0x7a3227795ce17d9cc5378a9b373d6defd4b25112206531e0c7768f6092002410,2026-03-01-llm,validation,Will the Houston Rockets win the 2025–2026 NBA Southwest Division?
+0x7a6a33627efd7e57152db2ee806570408e019bd72967158d4bc630863207c6e1,2025-12-07-llm,train,Will Emily Blunt win Best Actress at the 98th Academy Awards?
+0x7c6c69d91b21cbbea08a13d0ad51c0e96a956045aaadc77bce507c6b0475b66e_aug,2026-01-18-llm,train,Will it not be the case that fed increases interest rates by 25+ bps after January 2026 meeting?
+0x7d98815be880769be11a63b4df815b9bdcbf6ae007a8caaba9a2909816a8d1c6,2025-11-09-llm,train,Will Google have the top AI model on December 31?
+0x7ffa1fcfaeac86d4a89afcb74c90296f0e7c3744ce5206183c9cb38651526e63,2025-10-26-llm,train,New pandemic in 2025?
+0x81b06cb917c9a2aabc67a7765bc3c640e88a699bbf451b29915049c0766cde04,2026-03-29-llm,test,US x Iran ceasefire by June 30?
+0x81d74bd6a217892b3835dde991233ac5ba181741fcc51904980b98865c20530f,2025-12-21-llm,train,Will Sydney Sweeney apologize for her jeans ad in 2025?
+0x8309a3b9eb96171c215153b8dccc3bcbcfa84d709f10d9319f5cb8874ff2c728_aug,2025-11-09-llm,train,Will it not be the case that Meta have the top AI model on December 31?
+0x830eb792fa2f2a591b5a0610a76400f80228629105f4f5896434be777665265c,2025-11-23-llm,train,Will Henri Bontenbal become the next Prime Minister of the Netherlands?
+0x8370b54d8b25a8a408ddb402ff7a03178139f59593ee97c03a10a43523516404_aug,2025-11-23-llm,train,Will it not be the case that the 10-year Treasury yield dip below 3.5% in 2025?
+0x8533de32e4bcfc22d1c8fe8d79be73b319505c2bc19733f62d2d217695df463d,2026-03-01-llm,validation,Minneapolis Border Patrol shooter charged?
+0x8b89c599a91f9d6520e24bf1be251cb87cf43267cefa3cebccfc6f685aacff1a,2025-12-07-llm,train,Will Hamnet be nominated for Best Picture at the 98th Academy Awards?
+0x8cd80bf80e98abaf64e504363ffa8f557a9cd7b0c6cce02590bfe8025c329691,2026-01-04-llm,train,"Will Solana dip to $80 by December 31, 2026?"
+0x8d2f1d7b05bdc074c2cdba4e4b51be5673953f9b22b3c0fc8e3bf5cbed13c90f,2026-03-01-llm,validation,Will the Phoenix Suns win the 2025–2026 NBA Pacific Division?
+0x8d4e6f7486e32dbd406028a3cecd9883df353c81011124418db811ed9cd9d1d3,2026-03-29-llm,test,Will the Sacramento Kings have the worst record in the NBA?
+0x8e54ef30fcab377514426f2940753d2319443057577c2dfc38335bb3853142cf_aug,2025-11-09-llm,train,Will it not be the case that 'The Life of a Showgirl' be #1 for 14 straight weeks?
+0x97de9adea81f908cc2b372c23627d8121ecbe1c21336d4263465fd3d1262d378,2026-03-29-llm,test,Will Solana reach $100 in March?
+0x998acf9ed1bbda06d59df70786441468872c72b2de59cacbea93625b14a5efcb,2026-01-04-llm,train,Will Trump nominate David Malpass as the next Fed chair?
+0x9d24d9f9b5995949cb158d943793dea20bd448e1b3971cb6f7418bb15e719661,2025-10-26-llm,train,Will Elon and DOGE cut more than $250b in federal spending in 2025?
+0x9fbe1832139c5e67dbf93813aabb9ac67ab8dd3d7d32fe86957ff761a8fa1532,2026-03-01-llm,validation,Will CDU win the most seats in the 2026 Rhineland-Palatinate parliamentary elections?
+0xa15eb6144875ec22c24b18c6f34e0ce2d5783765f740de9a4ac0e8fdb10fa832,2025-12-21-llm,train,Will Marty Supreme be nominated for Best Picture at the 98th Academy Awards?
+0xa320756f4fc6ec9df78a0828ec4d6b5f92ac334044634566fc19cda36023f8e1,2025-11-09-llm,train,Will Springsteen: Deliver Me from Nowhere win Best Production Design at the 98th Academy Awards?
+0xa322e5cfd4c13c562553e4d18617be436c7ee24257b3b60a3757567ea99ce277_aug,2025-10-26-llm,train,Will it not be the case that 'The Life of a Showgirl' be #1 for 17 straight weeks?
+0xa32a00faf9ac4f49c0a2742341304513d6816bec08219bfc48f85d7a013c9ddf,2026-01-18-llm,train,Will Moonshot have the best AI model at the end of January 2026?
+0xa4e7e472e1f4b0f5a9e88c0d086053ef51bb4dc150cf861bef48232447d3b636,2025-11-09-llm,train,Will Ryan Feldman win the 2025 National Heads-Up Poker Championship?
+0xa76a7ecac374e7e37f9dd7eacda947793f23d2886ffe0dc28fcc081a7f61423c,2025-10-26-llm,train,Will Bitcoin dip below $100k before 2026?
+0xa7e61311724e5882cf8906d0232ffefef68a0ab64716344d28d066febdda5c49,2025-12-07-llm,train,Will Alibaba have the top AI model on December 31?
+0xa8533ac7382ad55fde02964b221eeab55da2ffe538a5da2c3f84449695d3ba8c,2025-10-26-llm,train,Will 'The Life of a Showgirl' be #1 for 16 straight weeks?
+0xa8c0a8ea0b9f3c6dc3ff1cd5163c280eeb075f17b23e50632f01a9da78683062_aug,2025-10-26-llm,train,Will it not be the case that 'Zootopia 2' have the best domestic opening weekend in 2025?
+0xa998022efc89d60331ac15e78103dafd765e65eaea433405638c4e293d2b0fa6,2026-03-15-llm,test,Will the Carolina Hurricanes win the Metropolitan Division?
+0xaa1144ea191942775190a6d5021f1954191bfc168d2b243072afcd130f6ec716,2026-02-01-llm,train,Will the Logan Paul 1st Edition Charizard sale price be over 600k?
+0xaa368b9b8a22b8fd9338f3e46b4ce5f856233ac5ff45e30557384846279acee7,2025-12-21-llm,train,Hyperliquid all time high by December 31?
+0xad0144e9296cf5133595a42c2155be25c8f24eb1a79266c0ec81a40a2f806933,2025-10-26-llm,train,Fact check: Was Tyler Robinson a lone actor?
+0xad29cf2f3839f6090c3ba8a0b6753d3af77ecced5c24ab10348ecc64067c04a8,2026-01-18-llm,train,Will Google have the best AI model at the end of January 2026?
+0xb2e1fde8d5b6d178509efb34b3850c69a7bc742c361ba6016054e50302f833c7,2026-03-15-llm,test,Bank of England decreases interest rates by 25 bps after March 2026 meeting?
+0xb42cf911da8aa39a9f634c190120f5c36f7301b69b15d20aa23382ac350b830d,2026-01-18-llm,train,"Will Gold (GC) hit (HIGH) $6,000 by end of January?"
+0xb80648ac5065ea63ccd08aea88b6c2faf5f324fa0cb9c26abb8a29c5a53e0d41,2026-03-01-llm,validation,Will the Los Angeles Lakers win the 2025–2026 NBA Pacific Division?
+0xb9223ddfda277ecf96cea52aba3d6a47e3bb001bf0173fb3e2145566c28e0c24,2026-03-01-llm,validation,Will Sean Penn win Best Supporting Actor at the 98th Academy Awards?
+0xbad74413f87762c2b4423dfcd72ccce4c561bc59f33e7ed474b33ef917b802a0,2025-12-07-llm,train,US defaults on debt in 2025?
+0xbc19b7dee8883e27c2e617cfa9a8875c5f014643f760f72121f4a769b19536c6,2025-11-23-llm,train,"Will Bitcoin reach $145,000 in November?"
+0xbc2d59e8ea0378f0851c86e84d250e80a5698874db52c13798053841f291dc28,2026-02-15-llm,validation,Will the Sacramento Kings win the 2026 NBA Finals?
+0xbfc25a82b6a6476895991401059bab3a73df1a9278400d70dfad080774a981c4_aug,2026-01-04-llm,train,Will it not be the case that Avatar: Fire and Ash win Best Production Design at the 98th Academy Awards?
+0xc2846f35e85eb09a094edbd4e93e345d3c682dc0436615adc27122222fccbd81,2025-11-09-llm,train,Will 4 Fed rate cuts happen in 2025?
+0xc4170a15840e61b89216fcdf6368f63486b51f037e5c0546d63ae75b14fa5c2a,2026-03-29-llm,test,"Military action against Iran continues through March 31, 2026?"
+0xc4dba193fa3b80410da74fd559d7071cc8835bbd4651a75e1e9fb3c3d7bec780,2025-10-26-llm,train,Will 'The Life of a Showgirl' be #1 for 0 straight weeks?
+0xc6b173db2582f7ccb12b7e541ab510934013b2640006712ae35507ff75d707f4,2026-02-01-llm,train,Will Ryan Coogler win Best Director at the 98th Academy Awards?
+0xc848576777751e56a4db0eb5e7d4c764afbe80e116fc75584e69c0914be0a5b2,2025-12-21-llm,train,Ukraine Tomahawk missile strike by December 31?
+0xcb139a61f2cc201078f5ed717781b7227b740645d07fec2a07d2d4bcd16ff8a7,2026-03-29-llm,test,Will Crude Oil (CL) hit (HIGH) $110 by end of June?
+0xcbeecb8b1c7937145991ebb0d4c402b908c37f0f09222d8962c1f6fdfe5a9870,2026-03-01-llm,validation,Will the Houston Rockets make the NBA Playoffs?
+0xcc7d2919c23e00507e33848288f15fb3473e536bad6e94e355ae71e7e651ed0e,2025-12-07-llm,train,Gemini 3.0 Flash released by December 31?
+0xcd14407814c97e5fa5684e4154a63be045c048365a8b12acab3f20bc9286d3a7,2026-01-04-llm,train,Will Anxiety (Doechii) win Record of the Year at the 68th Annual GRAMMY Awards?
+0xce33ad5f0fbcc1a4861cc92b81814cd174020d16df3dc80d5c287d5f047e68fc,2026-03-29-llm,test,Will the Boston Celtics win the 2025–2026 NBA Atlantic Division?
+0xd459f7a9a61a7c36807a0a4066cbc1579e9b6277894baf778569f026ff5e69fb,2025-10-26-llm,train,Will RFK Jr. find the cause of Autism before November?
+0xd87ac5bb74a21061d4f223d2a83c0269607fcb6d4c74d5a3d3220209d089431a,2026-01-04-llm,train,Will Sinners win Best Picture at the 98th Academy Awards?
+0xda5e93ecce25875195aeed7d427f16e9edab7296ea5d02d841ae733ba2a8a89f,2026-01-04-llm,train,Will Austria win the most gold medals in the 2026 Winter Olympics?
+0xdc609df6c167499ecd2beffda05a1ddaeca7ed3269a805f7b9a4afd5e96cf2e5,2026-01-18-llm,train,Will Trump nominate Lorie K. Logan as the next Fed chair?
+0xde7d04363a3ccbb4a2bd27b052cb045997d87e0cf2f2f565fe18021b94860061,2026-02-01-llm,train,Will the next Dutch government be PVV + VVD + CDA + D66?
+0xe26424b7a84fe280b7202c5bd8a6c2763985510ff6a2c663c7aedd23881f7c79,2025-12-21-llm,train,Will Trump announce Howard Lutnick as next Fed Chair in 2025?
+0xeaab9021b99acc38699821455c9332838c88f1609071f7f2e39da2f56e52d9e7,2026-02-15-llm,validation,Will Frankenstein win Best Adapted Screenplay at the 98th Academy Awards?
+0xead308d7628ff4bf7c89df1d52163de37501a627c7b7588cc523c07ef9b0f4bd,2026-03-15-llm,test,Will the Denver Nuggets make the NBA Playoffs?
+0xed6e40eeab474a579cb894e3eeafb215b29dbba27c30c33e39e80f40649d3cff,2026-02-15-llm,validation,"Will Gold (GC) hit (HIGH) $10,000 by end of February?"
+0xee07342762446b03520f52f84b7a9b354d6fdad1d65cc4f2f942c484a9983a06,2026-03-15-llm,test,Will Kel'el Ware lead the NBA in rebounds during the 2025–26 NBA season?
+0xee3898d16e04818aa853e39e1533b368ad57ca092ec0e6298ccdf41b62786ab9,2025-11-09-llm,train,"Will Gold close at $3,200 or more at the end of 2025?"
+0xeefdfb2a32f7304c9f07a7a752731529b6b28085c02cc711d9714f9f0511fc14,2025-11-09-llm,train,Will Z.ai have the top AI model on December 31?
+0xefe3a05506e08fefb8c1998aa607fcce31e32a6852ef60bee4c71d0935c97950,2025-11-23-llm,train,Will Sevilla win the 2025–26 La Liga?
+0xf06011674951b6a853154b841dda3bf555f72f5514d9a64b50a81de836a6c19c,2025-11-23-llm,train,Will Nouvelle Vague win Best Production Design at the 98th Academy Awards?
+0xf0d4ee47d3abe6161f1e8f93bfe46d06d1ffd63f48e71c49aa81b2250e152e8b,2026-02-15-llm,validation,"Israel x Iran ceasefire broken by June 30, 2026?"
+0xf2591ada43eda11c5923f0190307d2cc5f5d994695a654779c3dd328ff820d55,2026-02-01-llm,train,"Will Bitcoin dip to $75,000 by December 31, 2026?"
+0xf562feabe9922f78e99b488df4fcef6be8cbc831605388751538d178585007aa,2026-03-01-llm,validation,Will Zootopia 2 be the 2025 film with the highest domestic gross on March 15?
+0xf5ec2524e8d5fdd9f4f7e1084ba14805fa78aacc9f31d58e0c713100c3a462ae,2025-10-26-llm,train,Will the Fed Cut–Cut–Pause in 2025?
+0xf66b13dd3447b8908fe4d3cfbfdfd9e6a18f506f6d694af5ee3c800d907b1301,2025-12-21-llm,train,Will Novocaine be nominated for Best Picture at the 98th Academy Awards?
+0xf6890c707d1e327b006b9511bdba8c98ec4e4978646c6ffcf3ec8750c26a666a,2026-03-29-llm,test,Will Crude Oil (CL) hit (HIGH) $105 by end of March?
+0xf8b730810252255fa217a2828b46b7a3c0ed63b702c817461270ce9e65b5ec25,2026-01-04-llm,train,"Israel x Iran ceasefire broken by March 31, 2026?"
+0xf8ce0003ad658f06891e30bea1da4ad188884cdd933367099c8d121ea671bbd6,2026-02-15-llm,validation,Will xAI have the best AI model at the end of February 2026?
+0xfb0c98ef42c5c48b5ecca31e555aa0565a31958261e2d6c7b4cb15bbd417cbba,2025-11-09-llm,train,"Will Bitcoin dip to $90,000 by December 31, 2025?"
+0xfbb2046e013da7b66ecedf3a9de63ce446fd57c23ccc77cd019991f485522236_aug,2026-01-18-llm,train,Will it not be the case that Trump nominate Philip Jefferson as the next Fed chair?
+0xfccc16f3bba1210d40db55ee1b71c741be5b14dc3512aba5dc32de5c6e0c4bde,2025-10-26-llm,train,Will Bad Bunny be the top Spotify artist for 2025?
+15370,2025-12-07-llm,train,Will the United States score in the bottom 50% for academic freedom in 2025 (according to the AFI)?
+1555_aug,2025-10-26-llm,train,Will it not be the case that the U.S. federal government enact legislation that substantively regulates or authorizes regulation of artificial intelligence systems or their development before 1 January 2026?
+1560,2025-11-23-llm,train,Will the European “Coalition of the Willing” deploy forces to Ukraine in 2025?
+15602,2025-12-07-llm,train,Will ARC find that GPT-5 has autonomous replication capabilities?
+1564,2025-11-09-llm,train,Will the EU import at least 15 billion cubic meters of natural gas from Russia in any quarter of 2025?
+1674,2025-12-07-llm,train,"Will the Cambodia-Thailand conflict result in at least 20 deaths between 4 November 2025 and 15 January 2026, inclusive?"
+17095_aug,2025-12-07-llm,train,Will it not be the case that the US place restrictions on the total compute capacity individuals or companies are allowed to have before 2026?
+17110,2025-12-07-llm,train,Will the US or California require licenses to train large AI models before 2026?
+1722,2026-02-15-llm,validation,Will Denis Sassour Nguesso win the 2026 Presidential election in the Republic of the Congo?
+1726,2026-03-01-llm,validation,"Will North Korea conduct a missile test between 1 February 2026 and 31 March 2026, inclusive?"
+18541,2025-11-09-llm,train,Will China operate at least one military base in a BRICS country before 2026?
+22560,2025-12-21-llm,train,Will Ukraine start revoking passports of military draft age men residing abroad before 2026?
+26328,2025-12-21-llm,train,Will there be any reported human-to-human transmission of highly pathogenic avian influenza H5N1 globally before 2026?
+2gZEQtlQyO,2026-03-01-llm,validation,Lamine Yamal scores 15+ La Liga goals in 2025/26 season?
+38671,2025-12-21-llm,train,Will Ali Khamenei cease to be supreme leader of Iran in 2025?
+39002,2025-12-07-llm,train,"Will there be another deadly clash between Thailand and Cambodia, resulting in three or more fatalities, before 2026?"
+39771,2025-10-26-llm,train,Will there be a stronger hurricane than Erin during the 2025 Atlantic hurricane season?
+39783,2025-10-26-llm,train,"Will Chegg file for bankruptcy before January 1, 2026?"
+40005,2026-03-15-llm,test,Will any political party or coalition acquire a supermajority in the 2026 Hungarian parliamentary elections?
+40711,2026-03-15-llm,test,"Will the United States, Russia or China detonate a nuclear device before April 1, 2026?"
+40852_aug,2026-03-29-llm,test,"Will it not be the case that the US House of Representatives censure, expel or reprimand any of its members before April 1, 2026?"
+40864,2026-03-01-llm,validation,Will NASA's Artemis II complete its mission successfully before 2027?
+40865,2026-03-15-llm,test,Will Israel pass the Penal Bill (Death Penalty for Terrorists amendment) into law before April 2026?
+41370,2026-02-01-llm,train,Will there be at least one podium sweep at the 2026 Winter Olympic Games?
+41462,2026-02-01-llm,train,Will Ali Khamenei cease to be Supreme Leader of Iran before 2027?
+41489,2026-03-15-llm,test,"Will Venezuela announce a presidential election before April 1, 2026?"
+42139,2026-03-29-llm,test,Will Keiko Fujimori advance to the runoff in the 2026 Peruvian presidential election?
+42472,2026-03-29-llm,test,Will the US and Iran agree to a ceasefire before May 2026?
+42480,2026-03-29-llm,test,Will Pam Bondi be out as US Attorney General before May 2026?
+5768,2025-11-23-llm,train,Will any senior executives of these major public companies be imprisoned for corporate crimes before 2026?
+6948,2025-10-26-llm,train,Will lepton universality be falsified before 2026?
+6A0Csq0Z9c,2025-12-07-llm,train,Will MrBeast reach 460 million subscribers in 2025?
+7444,2025-11-23-llm,train,"Will Elon Musk be the richest person in the world on December 31, 2025?"
+AQOlO0nOsc_aug,2026-03-01-llm,validation,Will it not be the case that united States Recession by End of Q4 2025?
+AZNPqIQuA0,2025-12-07-llm,train,Will the fertility rate of South Korea increase from 2023 to 2025?
+AtLFLzDlSERmVcSdUapy,2025-12-07-llm,train,Will the upcoming Minecraft movie make over a billion dollars at the worldwide box office?
+D5o5fIGpQnjANdl2DxdU,2025-11-09-llm,train,Will there be a US recession by EOY2025?
+Ehu8pd5PLP,2026-03-01-llm,validation,Will a clawdbot have been proven to have exfiltrated without help from its human to another host by end of February 2026
+IMLre6PYIQgsesV6Wa6O,2025-11-09-llm,train,Did the US enter a recession before the end of 2024?
+IWT36MaBUPU5dtiCygxo,2025-11-09-llm,train,"Will a legal sub two-hour marathon be run before December 31, 2025."
+IglOIIg2AI,2025-12-07-llm,train,Will the S&P 500 AGAIN decrease by over 5% in one day in 2025?
+K8qazyZJ3tXyuLlzkkyk,2025-10-26-llm,train,Will San Diego FC make the playoffs in 2025?
+LpP5sE6dnE,2026-03-15-llm,test,Will X.com be accessible in the UK on 31st March?
+NhqOACq9Pu,2026-03-01-llm,validation,Will US public opinion shift towards Israel during 2025 (according to gallop)?
+Og5u9CudhA,2025-10-26-llm,train,Will TSLA drop below $200 a share in 2025?
+P255hsOyEL,2026-03-29-llm,test,BTC  close above 80K by end of March?
+Q86zpNZRsU,2026-03-29-llm,test,"Will the United States officially withdraw from NATO by March 31, 2026?"
+R2PYH7Cwjk59eILygi1W_aug,2025-12-21-llm,train,Will it not be the case that it be public knowledge by EOY 2025 that a major AI lab believed to have created AGI internally before October 2023?
+RzsZN6SlUp,2025-10-26-llm,train,Will Trump win the 2025 Nobel Peace Prize iff there is a ceasefire in Ukraine before 2026? (or not if there isn't)
+W8iOAuLrMal2MAwPPg62,2025-11-23-llm,train,"Will Ali Khamenei remain Supreme Leader of Iran through December 31st, 2025?"
+Zn0R05lcyR_aug,2025-10-26-llm,train,Will it not be the case that there be a Waymo skit on SNL in 2025?
+cE1pnjaMDDaOF16V14Y2,2025-12-07-llm,train,Will Google Chrome be the most popular browser at the end of 2025?
+cU2Oq6qOsL,2025-11-09-llm,train,Will Musk be on good terms with Trump at the end of 2025?
+cp9s0lqSCy,2026-03-15-llm,test,Will France become more authoritarian in 2025?
+cqcSp5ZC9h,2026-03-15-llm,test,Russia joins the Board of Peace by March 31?
+d2sZ8AIILQ,2025-12-07-llm,train,Military conflict between the US and Venezuela in 2025?
+dUpnZIpOU8_aug,2025-11-23-llm,train,Will it not be the case that Trump exact punishment on South Park?
+dy9yI9PLIh,2025-12-07-llm,train,Will Iran experience regime change in 2025?
+f2i3zt28mm,2025-11-09-llm,train,Will the US enter a recession by end of 2025? (Two quarters negative GDP growth)
+hIZy2ULp8Z,2025-11-09-llm,train,Will Manifold offer real money betting again before the end of 2025?
+lOIsUpOuLg,2026-03-15-llm,test,Will Venezuela become more authoritarian in 2025?
+llC0sSgzg8,2025-11-09-llm,train,"Will Trump & Elon cut >250,000 government employees in 2025?"
+ln62Z8L0Sd,2025-11-09-llm,train,Will Elon musk form a new political party
+lnIC5ggZh6,2026-03-15-llm,test,Will an independent replication study confirm that poor sleep can be an early indicator of Alzheimer's disease in flies?
+lqRAnA8qPO,2026-03-29-llm,test,Will Kalshi pay $1 billion for a perfect bracket?
+m7scZNu2LwMHTfnhW0IV,2026-03-15-llm,test,Will Slay the Spire 2 get overwhelmingly positive reviews on Steam?
+mqIkDr66P84o5wxxKuD9,2025-10-26-llm,train,Will LLM hallucinations be a fixed problem by the end of 2025?
+oj4g2w07uo,2025-12-07-llm,train,Will Trump actually establish a strategic Bitcoin reserve in his first year?
+pdcRPllUC5,2025-11-23-llm,train,Will my video game be released by the end of 2025?
+qt0dEZpUqu,2025-11-23-llm,train,Louvre robbers apprehended before Christmas?
+sIS2UNptC0_aug,2026-03-29-llm,test,Will it not be the case that Germany become more authoritarian in 2025?
+tgT5NHOu7VA8sSAuAtJb_aug,2026-03-15-llm,test,Will it not be the case that the Julia programming language be in top 15 TIOBE Index by 2026?
+ylgphSdccA,2026-03-01-llm,validation,ICE kills US citizen by end of March 2026
+ypNI2z6IRI,2026-03-29-llm,test,Will the United Kingdom become more authoritarian in 2025?
+zUONycg925,2026-03-01-llm,validation,"""One Battle After Another"" wins Best Picture?"

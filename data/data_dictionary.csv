@@ -1,0 +1,50 @@
+column,role,description
+model,identifier,Base-model family.
+question_id,identifier,Stable question identifier. Keep all rows with one ID in one split.
+date,identifier,Biweekly benchmark partition identifier.
+split,identifier,"Predefined chronological train, validation, or test split."
+source,pre_routing_feature,Forecasting-platform source.
+is_augmented,pre_routing_feature,One for a label-flipped benchmark augmentation.
+question_word_count,pre_routing_feature,Whitespace-token question length.
+question_char_count,pre_routing_feature,Question length in characters.
+external_market_probability,pre_routing_feature,"Market probability frozen before forecasting, adjusted for label flips."
+external_market_uncertainty,pre_routing_feature,One minus abs(2*p_market - 1).
+p_direct,pre_routing_feature,"Probability from the direct D=0,T=2 run."
+direct_uncertainty,pre_routing_feature,One minus abs(2*p_direct - 1).
+direct_market_disagreement,pre_routing_feature,Absolute direct-versus-market probability difference.
+yhat_direct,pre_routing_feature,Direct binary forecast; -1 if unparseable.
+parsable_direct,pre_routing_feature,Whether the direct forecast parsed successfully.
+direct_agent_cost,pre_routing_feature,Direct-run agent-side LLM cost in USD.
+direct_filter_cost,pre_routing_feature,Direct-run contamination-filter cost in USD.
+direct_total_cost,pre_routing_feature,Direct agent plus filter cost in USD.
+direct_completion_tokens,pre_routing_feature,Direct completion-token count.
+direct_prompt_tokens,pre_routing_feature,Direct prompt-token count.
+direct_reasoning_tokens,pre_routing_feature,Direct reasoning-token count where reported.
+direct_tool_calls,pre_routing_feature,Recorded direct tool-call count.
+direct_llm_calls,pre_routing_feature,Recorded direct LLM-call count.
+y,evaluation_only,Resolved binary outcome. Withheld for test observations.
+p_routed,evaluation_only,"Probability from the routed D=2,T=2 run. Withheld on test."
+yhat_routed,evaluation_only,Yhat routed
+parsable_routed,evaluation_only,Parsable routed
+routed_agent_cost,evaluation_only,Routed agent cost
+routed_filter_cost,evaluation_only,Routed filter cost
+routed_total_cost,evaluation_only,Routed total cost
+routed_completion_tokens,evaluation_only,Routed completion tokens
+routed_prompt_tokens,evaluation_only,Routed prompt tokens
+routed_reasoning_tokens,evaluation_only,Routed reasoning tokens
+routed_delegation_count,evaluation_only,Routed delegation count
+routed_tool_calls,evaluation_only,Routed tool calls
+routed_llm_calls,evaluation_only,Routed llm calls
+brier_direct,evaluation_only,Squared error of the direct probability. Withheld on test.
+brier_routed,evaluation_only,Squared error of the routed probability. Withheld on test.
+brier_improvement,target,Brier_direct minus Brier_routed. Positive means routing helped.
+route_improves_brier,target,One when paired Brier improvement is positive.
+accuracy_improvement,target,"Direct error minus routed error: +1 rescue, -1 harm, 0 otherwise."
+rescue,evaluation_only,Direct forecast wrong and routed forecast correct.
+harm,evaluation_only,Direct forecast correct and routed forecast wrong.
+incremental_agent_cost,evaluation_only,Routed minus direct agent-side cost in USD.
+incremental_filter_cost,evaluation_only,Routed minus direct filter cost in USD.
+incremental_total_cost,evaluation_only,Routed minus direct total cost in USD.
+incremental_tool_calls,evaluation_only,Incremental tool calls
+incremental_llm_calls,evaluation_only,Incremental llm calls
+incremental_completion_tokens,evaluation_only,Incremental completion tokens
